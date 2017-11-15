@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SimpleWeather</string>
     <string name="change_city">Change city</string>
-    <string name="open_weather_maps_app_id">11111</string>
+    <string name="open_weather_maps_app_id">bb5f0ff2717d343b2927e3778502dda3</string>
     <string name="weather_sunny">&#xf00d;</string>
     <string name="weather_clear_night">&#xf02e;</string>
     <string name="weather_foggy">&#xf014;</string>
